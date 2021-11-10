@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2.1", "labWpfApp2\lab2.1.csproj", "{92350FFD-DF0E-4C73-8089-F481AB7E9491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2.2", "lab2.2\lab2.2.csproj", "{DEB451F3-3AE2-4129-BF38-B590A7FC5547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2WpfApp1", "lab2WpfApp1\lab2WpfApp1.csproj", "{7D64FDFA-07B6-4C52-BE47-1F0F819B82FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92350FFD-DF0E-4C73-8089-F481AB7E9491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92350FFD-DF0E-4C73-8089-F481AB7E9491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92350FFD-DF0E-4C73-8089-F481AB7E9491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92350FFD-DF0E-4C73-8089-F481AB7E9491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEB451F3-3AE2-4129-BF38-B590A7FC5547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEB451F3-3AE2-4129-BF38-B590A7FC5547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEB451F3-3AE2-4129-BF38-B590A7FC5547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEB451F3-3AE2-4129-BF38-B590A7FC5547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D64FDFA-07B6-4C52-BE47-1F0F819B82FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D64FDFA-07B6-4C52-BE47-1F0F819B82FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D64FDFA-07B6-4C52-BE47-1F0F819B82FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D64FDFA-07B6-4C52-BE47-1F0F819B82FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A189D562-C32E-4A27-8F94-CB676C6219EA}
+	EndGlobalSection
+EndGlobal
